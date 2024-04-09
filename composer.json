@@ -39,7 +39,7 @@
     "roave/security-advisories": "dev-latest",
     "phpunit/phpunit": "^9.5",
     "jetbrains/phpstorm-attributes": "^1.0",
-    "vimeo/psalm": "^4.15"
+    "vimeo/psalm": "^5.23"
   },
   "bin": [
     "bin/lilit"
