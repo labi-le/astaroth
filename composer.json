@@ -20,7 +20,7 @@
     "labile/vk-longpoll": "^2",
     "vlucas/phpdotenv": "^5",
     "haydenpierce/class-finder": "^0.4.3",
-    "doctrine/orm": "^2.12",
+    "doctrine/orm": "^3.1",
     "symfony/dependency-injection": "^6",
     "symfony/cache": "^v6.4",
     "nette/php-generator": "^3.6",
