@@ -19,7 +19,7 @@
     "labile/text-matcher": "^1",
     "labile/vk-longpoll": "^2",
     "vlucas/phpdotenv": "^5",
-    "haydenpierce/class-finder": "^0.4.3",
+    "haydenpierce/class-finder": "^0.5.3",
     "doctrine/orm": "^3.1",
     "symfony/dependency-injection": "^6",
     "symfony/cache": "^v6.4",
