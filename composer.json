@@ -23,7 +23,7 @@
     "doctrine/orm": "^3.1",
     "symfony/dependency-injection": "^6",
     "symfony/cache": "^v6.4",
-    "nette/php-generator": "^3.6",
+    "nette/php-generator": "^4.1",
     "adhocore/cli": "^1.7.1",
     "monolog/monolog": "^2.3"
   },
